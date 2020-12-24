@@ -39,7 +39,11 @@ public class StudentController2 implements Controller {
 		return null;
 	}
 	
-	public String m1() {
+	public String m3() {
+		return null;
+	}
+	
+	public String m4() {
 		return null;
 	}
 	
