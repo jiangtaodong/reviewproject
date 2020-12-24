@@ -42,8 +42,12 @@ public class StudentController2 implements Controller {
 		return null;
 	}
 	
+	public String m1() {
+		
+	}
+	
 	public String m2() {
-		return null;
+		
 	}
 	
 }
