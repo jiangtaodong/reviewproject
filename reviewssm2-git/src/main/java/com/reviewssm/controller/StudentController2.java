@@ -5,14 +5,11 @@ import java.util.List;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.Controller;
 
 import com.reviewssm.pojo.Student;
 import com.reviewssm.service.IStudentService;
-import com.reviewssm.service.StudentService;
 
 //@Controller
 public class StudentController2 implements Controller {
@@ -39,6 +36,10 @@ public class StudentController2 implements Controller {
 	}
 	
 	public String gittest() {
+		return null;
+	}
+	
+	public String m1() {
 		return null;
 	}
 	
