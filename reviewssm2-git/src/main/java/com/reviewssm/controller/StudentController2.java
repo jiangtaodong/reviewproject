@@ -38,4 +38,8 @@ public class StudentController2 implements Controller {
 		return mav;
 	}
 	
+	public String gittest() {
+		return null;
+	}
+	
 }
