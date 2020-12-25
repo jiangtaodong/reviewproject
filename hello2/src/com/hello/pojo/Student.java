@@ -6,4 +6,8 @@ public class Student {
 		System.out.println("hello");
 	}
 	
+	public void m1() {
+		
+	}
+	
 }
